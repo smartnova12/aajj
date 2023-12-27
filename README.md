@@ -1,1 +1,2 @@
-# ProyectoFinal
+AAJJ - ECOMMERCE 
+ESTADO:EN DESARROLLO
